@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API</string>
+    <string name="articles_not_found">No se han encontrado noticias</string>
+    <string name="articles_loading">Cargando artículos . . .</string>
+</resources>
